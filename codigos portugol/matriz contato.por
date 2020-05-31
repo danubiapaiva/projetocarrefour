@@ -4,7 +4,7 @@ programa
 	funcao inicio()
 	{
 		inteiro contador = 0
-		cadeia agenda[][]= {{"João", "São Paulo", "(11)9999-5241"}, {"Maria", "Ribeirão Preto", "(16)9999-8596"}, {"Ana", "Manaus","(92)999-8574"}}
+		cadeia agenda[][]= {{"João das couves", "São Paulo", "(11)9999-5241"}, {"Maria", "Ribeirão Preto", "(16)9999-8596"}, {"Ana", "Manaus","(92)999-8574"}}
 
 	faca{
 
@@ -20,7 +20,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 290; 
+ * @POSICAO-CURSOR = 95; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
